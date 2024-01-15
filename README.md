@@ -69,3 +69,11 @@ Steps to view the analysis of Automobile sales on Dashboard
 - Product line – Trucks and buses, trains, ships, planes
 
 - Countries- - USA, UK, Australia, Singapore, Canada, Philippines, Japan, Ireland
+
+#### References:
+
+- Google- Streamlit.com, Python.plainenglish.io
+
+- Youtube Channel- Programming Is Fun
+
+- AI Generative tools- ChatGPT, Bard 
