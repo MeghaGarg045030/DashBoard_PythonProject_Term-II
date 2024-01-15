@@ -18,13 +18,13 @@ Steps to view the analysis of Automobile sales on Dashboard
 
 2.	For year-wise analysis of sales apply following filters on date
    
-Overall - choose the start date as 2018/01/01 and end date 2020/05/31.
+- Overall - choose the start date as 2018/01/01 and end date 2020/05/31.
 
-2018 - choose the start date as 2018/01/01 and end date 2018/12/31.
+- 2018 - choose the start date as 2018/01/01 and end date 2018/12/31.
 
-2019 - choose the start date as 2019/01/01 and end date 2019/12/31.
+- 2019 - choose the start date as 2019/01/01 and end date 2019/12/31.
 
-2020 - choose the start date as 2020/01/01 and end date 2020/12/31.
+- 2020 - choose the start date as 2020/01/01 and end date 2020/12/31.
 
 3.	For overall private automobile sales analysis apply the following filters
    
