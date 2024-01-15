@@ -28,44 +28,44 @@ Steps to view the analysis of Automobile sales on Dashboard
 
 3.	For overall private automobile sales analysis apply the following filters
    
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Motor cars, classic cars, vintage cars
+- Product line – Motor cars, classic cars, vintage cars
 
 4.	For overall commercial automobile sales analysis apply the following filters
    
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Trucks and buses, trains, ships, planes
-
+- Product line – Trucks and buses, trains, ships, planes
+ 
 5.	For Private vehicle sales in European market
 	
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Motor cars, classic cars, vintage cars
+- Product line – Motor cars, classic cars, vintage cars
 
-Countries- France, Norway, Finland, Austria, Spain, Sweden, Itali, Belgium, Denmark, Germany, Switzerland
+- Countries- France, Norway, Finland, Austria, Spain, Sweden, Itali, Belgium, Denmark, Germany, Switzerland
 
 6.	For Private vehicle sales in non-European market
 	
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Motor cars, classic cars, vintage cars
+- Product line – Motor cars, classic cars, vintage cars
 
-Countries- USA, UK, Australia, Singapore, Canada, Philippines, Japan, Ireland
+- Countries- USA, UK, Australia, Singapore, Canada, Philippines, Japan, Ireland
 
 7.	For Commercial Vehicles sales in European market
    
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Trucks and buses, trains, ships, planes
+- Product line – Trucks and buses, trains, ships, planes
 
-Countries- - France, Norway, Finland, Austria, Spain, Sweden, Itali, Belgium, Denmark, Germany, Switzerland
+- Countries- - France, Norway, Finland, Austria, Spain, Sweden, Itali, Belgium, Denmark, Germany, Switzerland
 
 8.	For Commercial Vehicles sales in non-European market
    
-Date- start date 2018/01/01 and end date 2020/05/31
+- Date- start date 2018/01/01 and end date 2020/05/31
 
-Product line – Trucks and buses, trains, ships, planes
+- Product line – Trucks and buses, trains, ships, planes
 
-Countries- - USA, UK, Australia, Singapore, Canada, Philippines, Japan, Ireland
+- Countries- - USA, UK, Australia, Singapore, Canada, Philippines, Japan, Ireland
